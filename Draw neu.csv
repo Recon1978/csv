@@ -1,0 +1,149 @@
+away_goals;away_name;away_played;away_position;away_probability;competition_progress;competition_type;corners;country;date;date_unix;draw_probability;ft_result_draw_opening;home_goals;home_name;home_played;home_position;home_probability;id;is_friendly;league_name;league_predictability
+1;Grêmio;6;2;33.23;100;Cup;8;Brazil;Jul 5th 2023;1688515200;26.37;3.40;1;Bahia;6;1;40.44;39021443;No;Copa do Brasil;high
+6;Brazos Valley;8;3;77.56;77;League;0;USA;Jul 5th 2023;1688515200;12.06;8.00;0;Round Rock;8;6;10.41;39760025;No;USL League Two;medium
+0;Sacachispas;18;13;16.84;61;League;7;Argentina;Jul 5th 2023;1688515800;29.88;2.90;0;Argentino Merlo;19;2;53.28;39102897;No;Primera B Metropolitana;poor
+1;DC United;21;8;22.89;59;League;3;USA;Jul 5th 2023;1688517000;26.06;3.57;0;Dallas;20;5;51.08;39594105;No;Major League Soccer;poor
+4;Martinique;2;2;22.78;65;Cup;9;World;Jul 5th 2023;1688518800;20.44;4.26;6;Costa Rica;2;3;56.78;39760026;No;CONCACAF Gold Cup;
+2;El Salvador;2;4;17.24;65;Cup;13;World;Jul 5th 2023;1688518800;21.42;3.50;2;Panama;2;1;61.34;39760027;No;CONCACAF Gold Cup;
+2;New Mexico United;16;11;33.24;49;League;7;USA;Jul 5th 2023;1688518800;25.88;3.50;2;Las Vegas Lights;16;12;40.83;39760030;No;USL Championship;medium
+0;Portland Timbers;21;12;28.23;59;League;3;USA;Jul 5th 2023;1688520600;27.52;;0;Colorado Rapids;20;14;44.2;39594104;No;Major League Soccer;poor
+0;Monterey Bay;17;4;17.5;49;League;6;USA;Jul 5th 2023;1688521620;22.14;3.65;4;Colorado Springs;18;7;60.36;39760029;No;USL Championship;medium
+1;Los Angeles FC;19;2;38.13;59;League;7;USA;Jul 5th 2023;1688524200;24.16;3.87;2;LA Galaxy;19;13;37.71;26807706;No;Major League Soccer;poor
+2;Charlotte Independence;15;4;19.62;45;League;13;USA;Jul 5th 2023;1688524500;24.84;3.20;3;Northern Colorado;11;5;55.54;39760031;No;USL League One;poor
+1;Tuggeranong United U23;11;6;17.31;56;League;9;Australia;Jul 5th 2023;1688542200;17.93;7.40;6;Canberra Croatia U23;12;2;64.76;39908448;No;Capital Territory NPL Youth League;poor
+0;Kien Giang;6;7;32.45;45;League;6;Vietnam;Jul 5th 2023;1688544000;27.33;3.30;0;Vĩnh Long;6;6;40.22;39760036;No;Second Division;good
+0;Dak Lak;6;1;26.49;45;League;0;Vietnam;Jul 5th 2023;1688544000;30.48;;0;Lam Dong;6;2;43.03;39760035;No;Second Division;good
+0;Tien Giang;6;2;19.11;45;League;12;Vietnam;Jul 5th 2023;1688545800;22.14;3.80;3;Gia Định;6;5;58.7;39760038;No;Second Division;good
+0;Da Nang II;6;4;43.12;45;League;0;Vietnam;Jul 5th 2023;1688545800;27.43;;0;Quảng Nam II;6;3;29.46;39760037;No;Second Division;good
+0;Shan United;10;1;36.91;47;League;8;Myanmar;Jul 5th 2023;1688547600;29.10;3.25;0;Yangon United;9;2;33.94;39760039;No;National League;high
+1;Tuggeranong United;11;7;10.8;56;League;13;Australia;Jul 5th 2023;1688549400;13.10;8.83;7;Canberra FC;12;6;76.08;40245322;No;Capital Territory;poor
+0;Montedio Yamagata;23;9;46.8;55;League;7;Japan;Jul 5th 2023;1688551200;26.30;3.29;1;Renofa Yamaguchi;23;20;26.91;39574002;No;J2-League;medium
+3;Fujieda MYFC;23;11;29.59;55;League;8;Japan;Jul 5th 2023;1688551200;26.56;3.51;2;Fagiano Okayama;23;8;43.85;39574003;No;J2-League;medium
+1;Zweigen Kanazawa;23;18;13.65;55;League;11;Japan;Jul 5th 2023;1688551200;20.31;3.96;2;Júbilo Iwata;23;4;66.04;39574004;No;J2-League;medium
+1;Blaublitz Akita;23;13;23.18;55;League;7;Japan;Jul 5th 2023;1688551200;28.59;3.25;5;Ventforet Kofu;23;6;48.23;39574005;No;J2-League;medium
+2;V-Varen Nagasaki;23;5;21.29;55;League;5;Japan;Jul 5th 2023;1688551200;26.68;3.25;1;Tokyo Verdy;23;2;52.03;39574006;No;J2-League;medium
+1;JEF United;23;15;40.95;55;League;7;Japan;Jul 5th 2023;1688551200;28.40;3.38;2;Omiya Ardija;23;22;30.65;39574007;No;J2-League;medium
+1;Roasso Kumamoto;23;14;48.29;55;League;13;Japan;Jul 5th 2023;1688551200;27.12;3.33;1;ThespaKusatsu Gunma;23;10;24.59;39574008;No;J2-League;medium
+1;Tokushima Vortis;23;16;42.27;55;League;3;Japan;Jul 5th 2023;1688551200;27.95;3.39;3;Mito Hollyhock;23;19;29.73;39574009;No;J2-League;medium
+3;Shimizu S-Pulse;23;7;45.07;55;League;15;Japan;Jul 5th 2023;1688551200;26.97;3.55;0;Vegalta Sendai;23;12;27.96;39574010;No;J2-League;medium
+0;Tochigi;23;17;27.51;55;League;16;Japan;Jul 5th 2023;1688551200;30.34;3.11;1;Iwaki;23;21;42.2;39574011;No;J2-League;medium
+3;Machida Zelvia;23;1;30.83;55;League;9;Japan;Jul 5th 2023;1688551200;30.14;3.21;0;Oita Trinita;23;3;39.03;39760042;No;J2-League;medium
+1;Hạ Long CFC;6;7;21.71;45;League;6;Vietnam;Jul 5th 2023;1688551200;23.60;3.75;1;PVF Vietnam;6;5;54.64;39760043;No;Second Division;good
+2;Cheng Fung;2;0;73.85;56;Cup;10;Macao;Jul 5th 2023;1688556600;11.93;6.97;0;Lun Lok;3;0;14.22;38068986;No;FA Cup;
+6;MS PDB;7;5;41.44;23;League;3;Brunei Darussalam;Jul 5th 2023;1688559300;22.66;3.88;0;IKLS;7;7;35.9;39102714;No;Super League;
+1;Botswana;0;0;30.28;;Cup;3;World;Jul 5th 2023;1688562000;27.35;2.90;0;Swaziland;0;0;42.38;39760046;No;Cosafa Cup;
+1;Tigre Res.;22;10;30.92;55;League;12;Argentina;Jul 5th 2023;1688565600;28.28;3.20;1;Banfield Res.;22;17;40.75;39660773;No;Reserve League;poor
+0;Super Nova;20;10;14.25;57;League;10;Latvia;Jul 5th 2023;1688569200;16.74;4.80;2;FC Daugavpils / Progress;20;9;68.96;39760051;No;Virsliga;high
+1;Al Salt;8;11;24.92;89;Cup;14;Jordan;Jul 5th 2023;1688569200;25.58;3.75;1;Al Ramtha;8;3;49.5;39760052;No;Shield Cup;high
+1;KuPS;2;1;55.53;99;Cup;8;Finland;Jul 5th 2023;1688569200;23.75;;1;Mariehamn;4;2;20.73;39760054;No;Finland Cup;high
+3;Kirkkonummi;10;8;20.35;44;League;17;Finland;Jul 5th 2023;1688571000;18.93;4.50;1;EIF Akademi;10;6;60.72;39760055;No;Kolmonen - Etelä;high
+1;OPS;6;5;55.79;36;League;7;Finland;Jul 5th 2023;1688571000;18.53;4.15;1;HauPa;7;8;25.68;39760056;No;Kolmonen - Pohjoinen;medium
+2;Oulu;3;2;32.24;99;Cup;6;Finland;Jul 5th 2023;1688571000;24.04;3.50;1;KTP;4;1;43.77;39760057;No;Finland Cup;high
+3;Honka;2;1;64.44;99;Cup;12;Finland;Jul 5th 2023;1688571000;20.22;5.00;1;SalPa;4;2;15.34;39760058;No;Finland Cup;high
+2;Vard;11;7;33.95;44;League;6;Norway;Jul 5th 2023;1688572800;21.70;4.20;0;Vålerenga II;11;10;44.35;37475665;No;2. Division;good
+2;TPV;10;1;53.75;46;League;10;Finland;Jul 5th 2023;1688572800;19.32;17.96;1;Loiske;10;9;26.93;39760061;No;Kolmonen - Länsi;high
+2;Spain W;3;2;51.62;77;League;13;World;Jul 5th 2023;1688572800;20.79;5.80;0;Denmark W;2;1;27.59;39760062;Yes;Friendly International Women;good
+4;Ilves;4;1;68.62;99;Cup;16;Finland;Jul 5th 2023;1688572800;17.56;8.09;0;VJS;6;2;13.77;39760063;No;Finland Cup;high
+1;Namibia;0;3;13.97;;Cup;5;World;Jul 5th 2023;1688572800;25.28;3.78;1;South Africa;0;2;60.78;39760064;No;Cosafa Cup;
+0;Morocco W;5;1;16.54;77;League;9;World;Jul 5th 2023;1688576400;20.45;6.00;0;Switzerland W;5;2;63.04;39760066;Yes;Friendly International Women;good
+2;MPS/Atletico Malmi;10;4;50.74;44;League;10;Finland;Jul 5th 2023;1688577300;19.66;4.00;2;PPJ / Ruoholahti;10;2;29.6;39760067;No;Kolmonen - Etelä;high
+0;Ismaily;31;13;11.57;98;League;9;Egypt;Jul 5th 2023;1688578200;21.01;4.50;1;Al Ahly;27;1;67.42;25797589;No;Premier League;high
+0;Resende;5;8;16.99;63;League;20;Brazil;Jul 5th 2023;1688579100;25.63;3.00;0;Olaria;7;2;57.43;39760069;No;Carioca A2;
+1;EC São Bernardo;1;3;15.05;10;Cup;10;Brazil;Jul 5th 2023;1688580000;24.91;3.20;0;Santo André;1;6;60.04;39760074;No;Copa Paulista;poor
+1;Icasa;1;5;23.84;5;Cup;6;Brazil;Jul 5th 2023;1688580000;25.84;3.80;1;Uniclinic;0;3;50.32;39760075;No;Copa Fares Lopes;
+0;Esporte Limoeiro;2;3;16.28;;Cup;0;Brazil;Jul 5th 2023;1688580000;18.87;;2;Maranguape;2;4;64.85;39760077;No;Cearense 3;
+0;Inter Santa Maria;2;0;21.24;17;Cup;7;Brazil;Jul 5th 2023;1688580000;26.67;3.60;1;Monsoon;0;0;52.09;39760081;No;Copa Gaúcha;high
+0;Pelotas;1;0;26.4;17;Cup;7;Brazil;Jul 5th 2023;1688580000;24.72;3.00;1;Grêmio B;2;0;48.83;39760085;No;Copa Gaúcha;high
+2;Midland;21;4;35.97;63;League;11;Argentina;Jul 5th 2023;1688581800;33.13;3.10;0;Leandro Nicéforo Alem;22;15;30.9;39102889;No;Primera C;good
+1;Platense;22;14;18.61;54;League;11;Argentina;Jul 5th 2023;1688581800;27.23;3.35;2;Godoy Cruz;22;9;54.16;39760100;No;Superliga;poor
+1;Al Ahli;8;9;17.03;89;Cup;10;Jordan;Jul 5th 2023;1688581800;23.71;5.85;3;Al Faysali;8;1;59.25;39760102;No;Shield Cup;high
+1;Linfield W;1;2;21.75;83;Cup;7;Ireland Republic;Jul 5th 2023;1688582700;16.21;8.00;6;Cliftonville W;1;1;62.04;39760106;No;Women's Premiership League Cup;
+0;Envigado U20;1;3;11.37;36;Cup;9;South America;Jul 5th 2023;1688583600;13.63;3.94;1;Independiente U20;1;1;75.02;39760108;No;Copa Libertadores U20;good
+1;Sion Swifts W;2;2;43.89;83;Cup;5;Ireland Republic;Jul 5th 2023;1688583600;18.92;4.20;0;Crusaders Strikers W;1;1;37.19;39760112;No;Women's Premiership League Cup;
+0;Fram W;9;7;12.86;52;League;6;Iceland;Jul 5th 2023;1688584500;16.36;5.42;1;Grindavík W;9;5;70.73;39760114;No;1. Deild Women;high
+0;JC FC W;3;3;37.18;;League;11;Brazil;Jul 5th 2023;1688585400;25.66;3.00;0;3B da Amazônia W;2;1;37.16;39760119;No;Amazonense Women;
+2;Banfield;22;26;23.08;54;League;9;Argentina;Jul 5th 2023;1688587200;26.96;3.25;1;Tigre;22;19;49.94;39760120;No;Superliga;poor
+4;Reynir;10;1;27.04;46;League;9;Iceland;Jul 5th 2023;1688587200;19.76;4.00;1;Árbær;10;5;53.2;39908449;No;3. Deild;good
+2;Santa Rosa PNP;12;4;35.32;49;League;9;Peru;Jul 5th 2023;1688589000;28.17;3.60;2;Molinos El Pirata;12;12;36.51;39760124;No;Segunda Division;high
+0;Estudiantes;22;5;31.13;54;League;11;Argentina;Jul 5th 2023;1688590800;29.62;3.00;0;Rosario Central;22;8;39.25;39760126;No;Superliga;poor
+0;Sport Recife;14;1;42.92;39;League;10;Brazil;Jul 5th 2023;1688594400;28.99;3.20;2;CRB;14;13;28.09;31421738;No;Serie B;poor
+0;São Mateus;8;12;12.22;63;Cup;0;Brazil;Jul 5th 2023;1688594400;14.00;;8;Real Noroeste;8;10;73.8;39760135;No;Copa Espirito Santo;high
+2;West Virginia Chaos;10;4;49.03;77;League;8;USA;Jul 5th 2023;1688594400;19.78;;2;Tobacco Road;10;7;31.2;39760138;No;USL League Two;medium
+0;Guarani de Juazeiro;0;1;6.06;5;Cup;13;Brazil;Jul 5th 2023;1688594400;12.65;4.33;6;Iguatu;0;2;81.31;39760141;No;Copa Fares Lopes;
+1;Always Ready U20;1;4;39.43;36;Cup;3;South America;Jul 5th 2023;1688594400;21.05;4.33;4;Cerro Porteño U20;1;2;39.55;39760142;No;Copa Libertadores U20;good
+1;Plaza Colonia;18;6;9.07;85;League;9;Uruguay;Jul 5th 2023;1688596200;19.68;4.83;4;Nacional;18;5;71.25;38570607;No;Primera Division;poor
+0;Palmeiras;4;1;26.21;94;Cup;15;Brazil;Jul 5th 2023;1688596200;26.28;3.30;1;São Paulo;4;2;47.45;38930482;No;Copa do Brasil;high
+1;San Lorenzo;22;3;26.99;54;League;5;Argentina;Jul 5th 2023;1688596200;28.51;2.88;1;Racing Club;22;13;44.51;39760145;No;Superliga;poor
+2;Pinheiros;8;7;50.16;63;Cup;0;Brazil;Jul 5th 2023;1688596200;20.72;;1;Linhares;8;8;29.12;39760146;No;Copa Espirito Santo;high
+2;Miami AC;9;1;25.2;77;League;6;USA;Jul 5th 2023;1688596200;26.22;3.84;0;Miami;7;5;48.58;39760147;No;USL League Two;medium
+2;Grove Soccer United;8;8;16.12;88;League;6;USA;Jul 5th 2023;1688598000;17.23;4.60;2;Northern Virginia United;9;5;66.65;39760154;No;NPSL;high
+3;Carolinas;11;3;28.95;77;League;6;USA;Jul 5th 2023;1688598000;18.16;4.40;1;Charlotte Eagles;10;1;52.89;39760156;No;USL League Two;medium
+1;Michigan Stars;6;4;58.54;39;League;8;USA;Jul 5th 2023;1688598000;22.98;3.75;0;Savannah Clovers;10;6;18.53;39760162;No;NISA;high
+1;Charlotte;20;11;19.78;60;League;7;USA;Jul 5th 2023;1688599800;22.79;3.70;1;New York City;21;10;57.46;39760163;No;Major League Soccer;poor
+2;Asheville City;9;1;62.66;77;League;7;USA;Jul 5th 2023;1688599800;19.71;4.33;1;Dalton Red Wolves;9;5;17.63;39760165;No;USL League Two;medium
+0;Louisiana Krewe;9;3;71.52;77;League;11;USA;Jul 6th 2023;1688601600;14.31;11.15;0;Baton Rouge LA;9;5;14.17;37628611;No;USL League Two;medium
+2;Imbabura;18;4;18.03;50;League;7;Ecuador;Jul 6th 2023;1688601600;25.38;3.67;0;Macará;18;1;56.59;39760128;No;Primera B;good
+2;Aris;10;6;27.1;88;League;4;USA;Jul 6th 2023;1688601600;17.24;5.50;5;Minnesota Twin Stars;10;4;55.66;39864831;No;NPSL;high
+2;Corpus Christi;8;2;40.25;77;League;9;USA;Jul 6th 2023;1688601600;21.93;3.60;3;Houston Sur;8;4;37.82;39864837;No;USL League Two;medium
+1;Athletico PR;4;1;13.49;94;Cup;9;Brazil;Jul 6th 2023;1688603400;19.99;4.40;2;Flamengo;4;2;66.53;39021445;No;Copa do Brasil;high
+0;Corinthians;4;2;22.59;94;Cup;9;Brazil;Jul 6th 2023;1688603400;25.74;3.40;1;América Mineiro;6;1;51.71;39791918;No;Copa do Brasil;high
+0;Colón;22;23;10.39;54;League;5;Argentina;Jul 6th 2023;1688603400;17.75;6.00;2;River Plate;22;1;71.86;39864838;No;Superliga;poor
+0;Ironbound;10;9;21.2;77;League;9;USA;Jul 6th 2023;1688603400;19.45;4.75;1;New York Magic - FA Euro;10;10;59.34;39864840;No;USL League Two;medium
+1;Myawady;10;9;39.8;48;League;5;Myanmar;Jul 6th 2023;1688635800;25.35;3.92;1;Yadanarbon;10;8;34.86;39864846;No;National League;high
+0;United;0;8;13.78;10;League;0;India;Jul 6th 2023;1688637600;17.77;;0;Mohammedan;0;7;68.45;39864847;No;Calcutta Premier Division A;
+1;Long An;1;2;22.71;38;Cup;2;Vietnam;Jul 6th 2023;1688641200;21.92;4.60;3;Hong Linh Ha Tinh;0;1;55.37;39864849;No;Vietnamese Cup;high
+0;Bà Ria Vũng Tàu;1;1;25.88;38;Cup;12;Vietnam;Jul 6th 2023;1688641200;24.51;6.00;4;FLC Thanh Hoa;0;2;49.61;39864850;No;Vietnamese Cup;high
+1;Quang Nam;1;2;26.68;38;Cup;12;Vietnam;Jul 6th 2023;1688641200;27.66;;1;Binh Dinh;0;1;45.66;39864848;No;Vietnamese Cup;high
+1;Tampines Rovers;16;3;66.75;67;League;18;Singapore;Jul 6th 2023;1688643900;15.18;4.45;0;Hougang United;16;6;18.06;39864851;No;S. League;high
+3;Balestier Khalsa;16;4;41.47;67;League;7;Singapore;Jul 6th 2023;1688643900;20.21;4.30;2;Tanjong Pagar;16;7;38.32;39864852;No;S. League;high
+2;Viettel;1;2;28.21;38;Cup;15;Vietnam;Jul 6th 2023;1688645700;28.88;3.00;1;Ha Noi;0;1;42.9;39864854;No;Vietnamese Cup;high
+3;Comoros;0;4;66.18;9;Cup;4;World;Jul 6th 2023;1688648400;17.91;3.26;0;Seychelles;0;2;15.88;39864855;No;Cosafa Cup;
+0;Shabab Al Sahel;1;2;56.84;33;Cup;0;Lebanon;Jul 6th 2023;1688652000;24.08;;1;Al Ahli Nabatiya;0;3;19.08;39864856;No;Federation Cup;
+2;Al Nejmeh;1;1;59.76;33;Cup;0;Lebanon;Jul 6th 2023;1688652000;24.40;3.60;0;Safa;0;3;15.84;39864857;No;Federation Cup;
+0;Astana;5;0;45.69;95;Cup;11;Kazakhstan;Jul 6th 2023;1688655600;27.70;3.50;2;Ordabasy;5;0;26.61;39760136;No;Kazakhstan Cup;poor
+1;Sahab;8;7;30.37;76;Cup;5;Jordan;Jul 6th 2023;1688655600;27.15;3.14;0;Shabab Al Ordon;8;8;42.48;39864859;No;Shield Cup;high
+1;KPV;13;12;15.99;58;League;9;Finland;Jul 6th 2023;1688657400;22.14;4.00;4;TPS;13;5;61.87;39864861;No;Ykkonen;good
+2;SexyPöxyt;9;10;37.16;40;League;16;Finland;Jul 6th 2023;1688657400;21.73;4.24;3;PIF;9;12;41.16;39864862;No;Kakkonen;poor
+2;KJP;10;6;41.18;46;League;16;Finland;Jul 6th 2023;1688657400;19.97;4.00;1;Kultsu;10;7;38.85;39864863;No;Kolmonen;high
+1;Viking II;11;1;47.2;46;League;17;Norway;Jul 6th 2023;1688659200;21.00;4.75;1;Sandnes Ulf II;12;9;31.81;39864865;No;3. Division - Group 3;high
+2;HaPK;10;2;45.71;46;League;12;Finland;Jul 6th 2023;1688659200;21.16;3.75;3;MiPK;10;5;33.13;39864866;No;Kolmonen;high
+0;PJK;10;12;5.03;46;League;16;Finland;Jul 6th 2023;1688659200;6.55;10.00;2;TP-T;10;6;88.42;39864867;No;Kolmonen - Länsi;high
+2;Jaro II;10;5;53.74;46;League;6;Finland;Jul 6th 2023;1688659200;23.26;3.72;3;Kiisto;10;3;22.99;39864868;No;Kolmonen - Länsi;high
+4;Sporting Kristina;9;4;50.39;46;League;14;Finland;Jul 6th 2023;1688659200;19.63;7.72;1;Nykarleby IK;10;11;29.98;39864870;No;Kolmonen - Länsi;high
+8;SJK-juniorit;10;1;59.81;46;League;8;Finland;Jul 6th 2023;1688659200;16.93;15.00;1;VPV;10;12;23.26;39864871;No;Kolmonen - Länsi;high
+1;Tabasalu W;8;3;17.11;39;League;7;Estonia;Jul 6th 2023;1688659200;14.64;4.20;4;Tallinna Kalev W;8;4;68.25;39864872;No;Meistriliiga Women;high
+1;Italy U19;1;1;47.7;27;Cup;9;Europe;Jul 6th 2023;1688659200;23.60;3.36;5;Portugal U19;1;2;28.7;39864873;No;Euro U19;
+0;Trakai;20;10;10.54;56;League;6;Lithuania;Jul 6th 2023;1688659200;17.49;5.50;3;Žalgiris;21;2;71.97;39864874;No;A Lyga;high
+1;Malawi;0;3;19.15;9;Cup;17;World;Jul 6th 2023;1688659200;26.62;3.40;0;Zambia;0;2;54.23;39864875;No;Cosafa Cup;
+1;PP-70;10;2;21.6;46;League;8;Finland;Jul 6th 2023;1688660100;17.44;4.00;2;NoPS;10;5;60.96;39864877;No;Kolmonen - Länsi;high
+2;JäPS II;10;3;34.59;45;League;9;Finland;Jul 6th 2023;1688661900;22.79;4.00;2;MPS;10;2;42.62;39864878;No;Kolmonen - Etelä;high
+2;Defensa y Justicia;22;6;40.67;54;League;9;Argentina;Jul 6th 2023;1688662800;27.42;3.50;1;Arsenal de Sarandi;22;28;31.92;39864879;No;Superliga;poor
+2;Haka Juniorit;10;4;57.3;46;League;3;Finland;Jul 6th 2023;1688662800;18.22;3.75;4;ACE;10;3;24.53;39864880;No;Kolmonen - Länsi;high
+4;HyPS;10;9;37.39;45;League;8;Finland;Jul 6th 2023;1688662800;20.66;4.00;2;NouLa;10;12;41.95;39864881;No;Kolmonen - Etelä;high
+2;Independente SP;;0;33.23;;League;8;Brazil;Jul 6th 2023;1688666400;31.24;3.10;1;Guarulhos;;0;35.54;39864891;No;Paulista Série B;good
+1;Leiknir Reykjavík;9;10;18.31;41;League;12;Iceland;Jul 6th 2023;1688668200;17.79;4.43;4;Fjölnir;9;2;63.9;39864892;No;Inkasso-Deildin;good
+2;Moghayer Al Sarhan;8;4;12.94;76;Cup;10;Jordan;Jul 6th 2023;1688668200;22.34;3.14;2;Al Wihdat;8;3;64.73;39864893;No;Shield Cup;high
+3;France W;2;1;49.72;78;League;8;World;Jul 6th 2023;1688670000;21.95;6.50;0;Ireland W;4;2;28.34;39864894;Yes;Friendly International Women;good
+0;Huachipato U20;1;3;52.84;41;Cup;7;South America;Jul 6th 2023;1688670000;19.22;7.00;1;Boca Juniors U20;1;2;27.97;39864895;No;Copa Libertadores U20;good
+5;HK W;10;2;63.4;53;League;13;Iceland;Jul 6th 2023;1688670900;17.23;6.50;2;Augnablik W;11;10;19.37;33829302;No;1. Deild Women;high
+2;Fylkir W;9;4;50.9;53;League;9;Iceland;Jul 6th 2023;1688670900;21.56;3.75;1;Afturelding W;9;6;27.48;39864896;No;1. Deild Women;high
+4;Víkingur Reykjavík W;9;1;61.44;53;League;9;Iceland;Jul 6th 2023;1688670900;16.80;5.00;4;Grótta W;10;5;21.82;39864897;No;1. Deild Women;high
+2;Hamar;8;6;14.42;44;League;9;Iceland;Jul 6th 2023;1688670900;13.69;11.36;2;Vængir Jupiters;8;1;71.89;39864898;No;4. Deild;high
+1;Árborg;8;2;43.29;44;League;12;Iceland;Jul 6th 2023;1688670900;19.57;4.86;1;Álftanes;8;9;37.14;39864899;No;4. Deild;high
+3;KH;8;7;21.02;44;League;13;Iceland;Jul 6th 2023;1688670900;17.47;3.75;2;Skallagrímur;8;8;61.5;39864900;No;4. Deild;high
+2;Völsungur;9;9;20.78;45;League;15;Iceland;Jul 6th 2023;1688670900;19.92;4.33;3;Dalvík / Reynir;10;5;59.3;39864902;No;2. Deild;medium
+1;KFG;10;3;31.47;45;League;11;Iceland;Jul 6th 2023;1688670900;22.97;3.90;1;Thróttur Vogar;10;4;45.61;39864903;No;2. Deild;medium
+2;Poland U19;1;3;57.02;27;Cup;6;Europe;Jul 6th 2023;1688670900;19.67;12.06;0;Malta U19;1;4;23.31;39864904;No;Euro U19;
+1;Guayaquil;18;7;18.61;50;League;8;Ecuador;Jul 6th 2023;1688673600;31.09;2.85;2;Vargas Torres;18;5;50.25;39760131;No;Primera B;good
+0;Boca Juniors;22;11;38.44;54;League;10;Argentina;Jul 6th 2023;1688673600;28.61;3.00;0;Unión Santa Fe;22;26;32.95;39864905;No;Superliga;poor
+2;Hvíti riddarinn;10;11;32.54;47;League;7;Iceland;Jul 6th 2023;1688674500;20.41;3.71;3;ÍH;10;10;47.05;39864906;No;3. Deild;good
+1;Talleres Córdoba;22;3;41.08;54;League;14;Argentina;Jul 6th 2023;1688680800;27.16;;0;Sarmiento;22;15;31.78;39864907;No;Superliga;poor
+0;Instituto;22;20;13.1;54;League;15;Argentina;Jul 6th 2023;1688680800;19.06;;0;Argentinos Juniors;22;10;67.84;39864908;No;Superliga;poor
+0;Angostura;16;9;22.05;57;League;6;Venezuela;Jul 6th 2023;1688680800;26.25;;5;Estudiantes Mérida;16;8;51.75;39864919;No;Primera Division;medium
+0;Virginia Beach City;9;7;16.91;88;League;4;USA;Jul 6th 2023;1688680800;17.83;;6;Alexandria Reds;8;3;65.26;39864938;No;NPSL;high
+0;Torch W;9;5;14.51;91;League;11;USA;Jul 6th 2023;1688680800;14.53;;3;Real Central NJ W;9;4;70.91;39864939;No;WPSL;high
+2;Palmeiras U20;1;4;73.39;41;Cup;12;South America;Jul 6th 2023;1688680800;12.86;;1;Defensor Sporting U20;1;2;13.77;39864942;No;Copa Libertadores U20;good
+0;Unión Española;15;8;36;50;League;0;Chile;Jul 6th 2023;1688684400;26.36;;0;Ñublense;15;12;37.64;39864952;No;Primera Division;poor
+0;Manta;18;2;23.2;51;League;0;Ecuador;Jul 7th 2023;1688688000;30.63;;0;9 de Octubre;18;10;46.17;39760130;No;Primera B;good
+0;Boulder County United;8;14;43.74;78;League;0;USA;Jul 7th 2023;1688688000;23.90;;0;Flatirons Rush;7;23;32.36;39949080;No;USL League Two;medium
+0;Wichita;8;5;12.57;78;League;0;USA;Jul 7th 2023;1688688000;12.25;;0;Chicago City;9;2;75.18;39949081;No;USL League Two;medium
